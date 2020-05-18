@@ -1,0 +1,369 @@
+Phase	Mesh	Count
+EARLY_PHASE_1	Breast Neoplasms	79
+N_A	Breast Neoplasms	216
+PHASE_1	Breast Neoplasms	641
+PHASE_1_PHASE_2	Breast Neoplasms	334
+PHASE_2	Breast Neoplasms	1885
+PHASE_2_PHASE_3	Breast Neoplasms	54
+PHASE_3	Breast Neoplasms	707
+PHASE_4	Breast Neoplasms	122
+EARLY_PHASE_1	Lymphoma	38
+N_A	Lymphoma	118
+PHASE_1	Lymphoma	970
+PHASE_1_PHASE_2	Lymphoma	480
+PHASE_2	Lymphoma	1632
+PHASE_2_PHASE_3	Lymphoma	27
+PHASE_3	Lymphoma	364
+PHASE_4	Lymphoma	65
+EARLY_PHASE_1	Leukemia	25
+N_A	Leukemia	119
+PHASE_1	Leukemia	975
+PHASE_1_PHASE_2	Leukemia	536
+PHASE_2	Leukemia	1456
+PHASE_2_PHASE_3	Leukemia	61
+PHASE_3	Leukemia	402
+PHASE_4	Leukemia	85
+EARLY_PHASE_1	Carcinoma	61
+N_A	Carcinoma	120
+PHASE_1	Carcinoma	631
+PHASE_1_PHASE_2	Carcinoma	383
+PHASE_2	Carcinoma	1758
+PHASE_2_PHASE_3	Carcinoma	73
+PHASE_3	Carcinoma	420
+PHASE_4	Carcinoma	68
+EARLY_PHASE_1	Neoplasms	42
+N_A	Neoplasms	101
+PHASE_1	Neoplasms	2008
+PHASE_1_PHASE_2	Neoplasms	380
+PHASE_2	Neoplasms	693
+PHASE_2_PHASE_3	Neoplasms	40
+PHASE_3	Neoplasms	166
+PHASE_4	Neoplasms	46
+EARLY_PHASE_1	Diabetes Mellitus	19
+N_A	Diabetes Mellitus	312
+PHASE_1	Diabetes Mellitus	482
+PHASE_1_PHASE_2	Diabetes Mellitus	82
+PHASE_2	Diabetes Mellitus	585
+PHASE_2_PHASE_3	Diabetes Mellitus	67
+PHASE_3	Diabetes Mellitus	984
+PHASE_4	Diabetes Mellitus	683
+EARLY_PHASE_1	Syndrome	33
+N_A	Syndrome	394
+PHASE_1	Syndrome	381
+PHASE_1_PHASE_2	Syndrome	222
+PHASE_2	Syndrome	1056
+PHASE_2_PHASE_3	Syndrome	104
+PHASE_3	Syndrome	547
+PHASE_4	Syndrome	426
+EARLY_PHASE_1	Lung Neoplasms	28
+N_A	Lung Neoplasms	71
+PHASE_1	Lung Neoplasms	555
+PHASE_1_PHASE_2	Lung Neoplasms	315
+PHASE_2	Lung Neoplasms	1525
+PHASE_2_PHASE_3	Lung Neoplasms	52
+PHASE_3	Lung Neoplasms	473
+PHASE_4	Lung Neoplasms	60
+EARLY_PHASE_1	Diabetes Mellitus, Type 2	19
+N_A	Diabetes Mellitus, Type 2	286
+PHASE_1	Diabetes Mellitus, Type 2	544
+PHASE_1_PHASE_2	Diabetes Mellitus, Type 2	39
+PHASE_2	Diabetes Mellitus, Type 2	474
+PHASE_2_PHASE_3	Diabetes Mellitus, Type 2	65
+PHASE_3	Diabetes Mellitus, Type 2	907
+PHASE_4	Diabetes Mellitus, Type 2	681
+EARLY_PHASE_1	Carcinoma, Non-Small-Cell Lung	22
+N_A	Carcinoma, Non-Small-Cell Lung	61
+PHASE_1	Carcinoma, Non-Small-Cell Lung	534
+PHASE_1_PHASE_2	Carcinoma, Non-Small-Cell Lung	278
+PHASE_2	Carcinoma, Non-Small-Cell Lung	1337
+PHASE_2_PHASE_3	Carcinoma, Non-Small-Cell Lung	37
+PHASE_3	Carcinoma, Non-Small-Cell Lung	452
+PHASE_4	Carcinoma, Non-Small-Cell Lung	63
+EARLY_PHASE_1	Hypertension	24
+N_A	Hypertension	228
+PHASE_1	Hypertension	215
+PHASE_1_PHASE_2	Hypertension	58
+PHASE_2	Hypertension	409
+PHASE_2_PHASE_3	Hypertension	56
+PHASE_3	Hypertension	679
+PHASE_4	Hypertension	653
+EARLY_PHASE_1	Infection	10
+N_A	Infection	308
+PHASE_1	Infection	282
+PHASE_1_PHASE_2	Infection	58
+PHASE_2	Infection	493
+PHASE_2_PHASE_3	Infection	61
+PHASE_3	Infection	558
+PHASE_4	Infection	424
+EARLY_PHASE_1	Prostatic Neoplasms	35
+N_A	Prostatic Neoplasms	114
+PHASE_1	Prostatic Neoplasms	377
+PHASE_1_PHASE_2	Prostatic Neoplasms	205
+PHASE_2	Prostatic Neoplasms	999
+PHASE_2_PHASE_3	Prostatic Neoplasms	35
+PHASE_3	Prostatic Neoplasms	296
+PHASE_4	Prostatic Neoplasms	66
+EARLY_PHASE_1	HIV Infections	5
+N_A	HIV Infections	246
+PHASE_1	HIV Infections	608
+PHASE_1_PHASE_2	HIV Infections	94
+PHASE_2	HIV Infections	442
+PHASE_2_PHASE_3	HIV Infections	40
+PHASE_3	HIV Infections	364
+PHASE_4	HIV Infections	265
+EARLY_PHASE_1	Hepatitis	7
+N_A	Hepatitis	116
+PHASE_1	Hepatitis	226
+PHASE_1_PHASE_2	Hepatitis	74
+PHASE_2	Hepatitis	493
+PHASE_2_PHASE_3	Hepatitis	50
+PHASE_3	Hepatitis	495
+PHASE_4	Hepatitis	511
+EARLY_PHASE_1	Multiple Myeloma	18
+N_A	Multiple Myeloma	62
+PHASE_1	Multiple Myeloma	429
+PHASE_1_PHASE_2	Multiple Myeloma	287
+PHASE_2	Multiple Myeloma	784
+PHASE_2_PHASE_3	Multiple Myeloma	16
+PHASE_3	Multiple Myeloma	236
+PHASE_4	Multiple Myeloma	28
+EARLY_PHASE_1	Leukemia, Myeloid	12
+N_A	Leukemia, Myeloid	44
+PHASE_1	Leukemia, Myeloid	471
+PHASE_1_PHASE_2	Leukemia, Myeloid	261
+PHASE_2	Leukemia, Myeloid	663
+PHASE_2_PHASE_3	Leukemia, Myeloid	30
+PHASE_3	Leukemia, Myeloid	193
+PHASE_4	Leukemia, Myeloid	37
+EARLY_PHASE_1	Depression	32
+N_A	Depression	213
+PHASE_1	Depression	119
+PHASE_1_PHASE_2	Depression	31
+PHASE_2	Depression	340
+PHASE_2_PHASE_3	Depression	53
+PHASE_3	Depression	410
+PHASE_4	Depression	444
+EARLY_PHASE_1	Neoplasms, Plasma Cell	17
+N_A	Neoplasms, Plasma Cell	47
+PHASE_1	Neoplasms, Plasma Cell	355
+PHASE_1_PHASE_2	Neoplasms, Plasma Cell	261
+PHASE_2	Neoplasms, Plasma Cell	692
+PHASE_2_PHASE_3	Neoplasms, Plasma Cell	12
+PHASE_3	Neoplasms, Plasma Cell	218
+PHASE_4	Neoplasms, Plasma Cell	26
+EARLY_PHASE_1	Colorectal Neoplasms	7
+N_A	Colorectal Neoplasms	68
+PHASE_1	Colorectal Neoplasms	252
+PHASE_1_PHASE_2	Colorectal Neoplasms	191
+PHASE_2	Colorectal Neoplasms	748
+PHASE_2_PHASE_3	Colorectal Neoplasms	38
+PHASE_3	Colorectal Neoplasms	245
+PHASE_4	Colorectal Neoplasms	49
+EARLY_PHASE_1	Adenocarcinoma	27
+N_A	Adenocarcinoma	39
+PHASE_1	Adenocarcinoma	290
+PHASE_1_PHASE_2	Adenocarcinoma	177
+PHASE_2	Adenocarcinoma	841
+PHASE_2_PHASE_3	Adenocarcinoma	23
+PHASE_3	Adenocarcinoma	165
+PHASE_4	Adenocarcinoma	19
+EARLY_PHASE_1	Depressive Disorder	32
+N_A	Depressive Disorder	192
+PHASE_1	Depressive Disorder	132
+PHASE_1_PHASE_2	Depressive Disorder	28
+PHASE_2	Depressive Disorder	317
+PHASE_2_PHASE_3	Depressive Disorder	49
+PHASE_3	Depressive Disorder	395
+PHASE_4	Depressive Disorder	398
+EARLY_PHASE_1	Hepatitis A	7
+N_A	Hepatitis A	87
+PHASE_1	Hepatitis A	143
+PHASE_1_PHASE_2	Hepatitis A	57
+PHASE_2	Hepatitis A	382
+PHASE_2_PHASE_3	Hepatitis A	42
+PHASE_3	Hepatitis A	371
+PHASE_4	Hepatitis A	429
+EARLY_PHASE_1	Melanoma	26
+N_A	Melanoma	29
+PHASE_1	Melanoma	402
+PHASE_1_PHASE_2	Melanoma	230
+PHASE_2	Melanoma	668
+PHASE_2_PHASE_3	Melanoma	11
+PHASE_3	Melanoma	110
+PHASE_4	Melanoma	16
+EARLY_PHASE_1	Arthritis	5
+EARLY_PHASE_1	Leukemia, Myeloid, Acute	11
+N_A	Arthritis	75
+N_A	Leukemia, Myeloid, Acute	37
+PHASE_1	Arthritis	184
+PHASE_1	Leukemia, Myeloid, Acute	446
+PHASE_1_PHASE_2	Arthritis	41
+PHASE_1_PHASE_2	Leukemia, Myeloid, Acute	240
+PHASE_2	Arthritis	378
+PHASE_2	Leukemia, Myeloid, Acute	527
+PHASE_2_PHASE_3	Arthritis	29
+PHASE_2_PHASE_3	Leukemia, Myeloid, Acute	23
+PHASE_3	Arthritis	475
+PHASE_3	Leukemia, Myeloid, Acute	148
+PHASE_4	Arthritis	264
+PHASE_4	Leukemia, Myeloid, Acute	19
+EARLY_PHASE_1	Communicable Diseases	6
+N_A	Communicable Diseases	217
+PHASE_1	Communicable Diseases	170
+PHASE_1_PHASE_2	Communicable Diseases	39
+PHASE_2	Communicable Diseases	304
+PHASE_2_PHASE_3	Communicable Diseases	38
+PHASE_3	Communicable Diseases	383
+PHASE_4	Communicable Diseases	292
+EARLY_PHASE_1	Disease	17
+N_A	Disease	187
+PHASE_1	Disease	131
+PHASE_1_PHASE_2	Disease	37
+PHASE_2	Disease	355
+PHASE_2_PHASE_3	Disease	37
+PHASE_3	Disease	351
+PHASE_4	Disease	331
+EARLY_PHASE_1	Asthma	7
+N_A	Asthma	125
+PHASE_1	Asthma	150
+PHASE_1_PHASE_2	Asthma	23
+PHASE_2	Asthma	415
+PHASE_2_PHASE_3	Asthma	26
+PHASE_3	Asthma	413
+PHASE_4	Asthma	283
+EARLY_PHASE_1	Schizophrenia	11
+N_A	Schizophrenia	155
+PHASE_1	Schizophrenia	207
+PHASE_1_PHASE_2	Schizophrenia	30
+PHASE_2	Schizophrenia	229
+PHASE_2_PHASE_3	Schizophrenia	41
+PHASE_3	Schizophrenia	326
+PHASE_4	Schizophrenia	382
+EARLY_PHASE_1	Hepatitis C	6
+N_A	Hepatitis C	50
+PHASE_1	Hepatitis C	259
+PHASE_1_PHASE_2	Hepatitis C	53
+PHASE_2	Hepatitis C	367
+PHASE_2_PHASE_3	Hepatitis C	38
+PHASE_3	Hepatitis C	333
+PHASE_4	Hepatitis C	256
+EARLY_PHASE_1	Leukemia, Lymphoid	9
+N_A	Leukemia, Lymphoid	46
+PHASE_1	Leukemia, Lymphoid	332
+PHASE_1_PHASE_2	Leukemia, Lymphoid	192
+PHASE_2	Leukemia, Lymphoid	557
+PHASE_2_PHASE_3	Leukemia, Lymphoid	18
+PHASE_3	Leukemia, Lymphoid	155
+PHASE_4	Leukemia, Lymphoid	41
+EARLY_PHASE_1	Kidney Diseases	13
+N_A	Kidney Diseases	166
+PHASE_1	Kidney Diseases	121
+PHASE_1_PHASE_2	Kidney Diseases	41
+PHASE_2	Kidney Diseases	327
+PHASE_2_PHASE_3	Kidney Diseases	37
+PHASE_3	Kidney Diseases	339
+PHASE_4	Kidney Diseases	286
+EARLY_PHASE_1	Myelodysplastic Syndromes	10
+N_A	Myelodysplastic Syndromes	50
+PHASE_1	Myelodysplastic Syndromes	350
+PHASE_1_PHASE_2	Myelodysplastic Syndromes	191
+PHASE_2	Myelodysplastic Syndromes	589
+PHASE_2_PHASE_3	Myelodysplastic Syndromes	17
+PHASE_3	Myelodysplastic Syndromes	98
+PHASE_4	Myelodysplastic Syndromes	22
+EARLY_PHASE_1	Lymphoma, Non-Hodgkin	10
+N_A	Lymphoma, Non-Hodgkin	46
+PHASE_1	Lymphoma, Non-Hodgkin	356
+PHASE_1_PHASE_2	Lymphoma, Non-Hodgkin	177
+PHASE_2	Lymphoma, Non-Hodgkin	513
+PHASE_2_PHASE_3	Lymphoma, Non-Hodgkin	6
+PHASE_3	Lymphoma, Non-Hodgkin	119
+PHASE_4	Lymphoma, Non-Hodgkin	21
+EARLY_PHASE_1	Pain, Postoperative	18
+N_A	Pain, Postoperative	286
+PHASE_1	Pain, Postoperative	29
+PHASE_1_PHASE_2	Pain, Postoperative	15
+PHASE_2	Pain, Postoperative	132
+PHASE_2_PHASE_3	Pain, Postoperative	38
+PHASE_3	Pain, Postoperative	187
+PHASE_4	Pain, Postoperative	513
+EARLY_PHASE_1	Arthritis, Rheumatoid	4
+N_A	Arthritis, Rheumatoid	53
+PHASE_1	Arthritis, Rheumatoid	163
+PHASE_1_PHASE_2	Arthritis, Rheumatoid	35
+PHASE_2	Arthritis, Rheumatoid	332
+PHASE_2_PHASE_3	Arthritis, Rheumatoid	22
+PHASE_3	Arthritis, Rheumatoid	356
+PHASE_4	Arthritis, Rheumatoid	216
+EARLY_PHASE_1	Influenza, Human	1
+N_A	Influenza, Human	72
+PHASE_1	Influenza, Human	178
+PHASE_1_PHASE_2	Influenza, Human	56
+PHASE_2	Influenza, Human	269
+PHASE_2_PHASE_3	Influenza, Human	25
+PHASE_3	Influenza, Human	284
+PHASE_4	Influenza, Human	238
+EARLY_PHASE_1	Pancreatic Neoplasms	22
+N_A	Pancreatic Neoplasms	35
+PHASE_1	Pancreatic Neoplasms	297
+PHASE_1_PHASE_2	Pancreatic Neoplasms	144
+PHASE_2	Pancreatic Neoplasms	482
+PHASE_2_PHASE_3	Pancreatic Neoplasms	19
+PHASE_3	Pancreatic Neoplasms	90
+PHASE_4	Pancreatic Neoplasms	19
+EARLY_PHASE_1	Pulmonary Disease, Chronic Obstructive	13
+N_A	Pulmonary Disease, Chronic Obstructive	71
+PHASE_1	Pulmonary Disease, Chronic Obstructive	156
+PHASE_1_PHASE_2	Pulmonary Disease, Chronic Obstructive	14
+PHASE_2	Pulmonary Disease, Chronic Obstructive	261
+PHASE_2_PHASE_3	Pulmonary Disease, Chronic Obstructive	9
+PHASE_3	Pulmonary Disease, Chronic Obstructive	330
+PHASE_4	Pulmonary Disease, Chronic Obstructive	236
+EARLY_PHASE_1	Neoplasm Metastasis	14
+N_A	Neoplasm Metastasis	43
+PHASE_1	Neoplasm Metastasis	260
+PHASE_1_PHASE_2	Neoplasm Metastasis	87
+PHASE_2	Neoplasm Metastasis	419
+PHASE_2_PHASE_3	Neoplasm Metastasis	32
+PHASE_3	Neoplasm Metastasis	163
+PHASE_4	Neoplasm Metastasis	60
+EARLY_PHASE_1	Fibrosis	10
+N_A	Fibrosis	153
+PHASE_1	Fibrosis	121
+PHASE_1_PHASE_2	Fibrosis	70
+PHASE_2	Fibrosis	313
+PHASE_2_PHASE_3	Fibrosis	32
+PHASE_3	Fibrosis	232
+PHASE_4	Fibrosis	146
+EARLY_PHASE_1	Preleukemia	4
+N_A	Preleukemia	41
+PHASE_1	Preleukemia	284
+PHASE_1_PHASE_2	Preleukemia	148
+PHASE_2	Preleukemia	468
+PHASE_2_PHASE_3	Preleukemia	12
+PHASE_3	Preleukemia	78
+PHASE_4	Preleukemia	19
+EARLY_PHASE_1	Alzheimer Disease	25
+N_A	Alzheimer Disease	61
+PHASE_1	Alzheimer Disease	269
+PHASE_1_PHASE_2	Alzheimer Disease	29
+PHASE_2	Alzheimer Disease	335
+PHASE_2_PHASE_3	Alzheimer Disease	33
+PHASE_3	Alzheimer Disease	192
+PHASE_4	Alzheimer Disease	103
+EARLY_PHASE_1	Sclerosis	11
+N_A	Sclerosis	43
+PHASE_1	Sclerosis	99
+PHASE_1_PHASE_2	Sclerosis	78
+PHASE_2	Sclerosis	340
+PHASE_2_PHASE_3	Sclerosis	48
+PHASE_3	Sclerosis	256
+PHASE_4	Sclerosis	147
+EARLY_PHASE_1	Leukemia, Lymphocytic, Chronic, B-Cell	8
+N_A	Leukemia, Lymphocytic, Chronic, B-Cell	24
+PHASE_1	Leukemia, Lymphocytic, Chronic, B-Cell	289
+PHASE_1_PHASE_2	Leukemia, Lymphocytic, Chronic, B-Cell	149
+PHASE_2	Leukemia, Lymphocytic, Chronic, B-Cell	429
+PHASE_2_PHASE_3	Leukemia, Lymphocytic, Chronic, B-Cell	1
+PHASE_3	Leukemia, Lymphocytic, Chronic, B-Cell	92
+PHASE_4	Leukemia, Lymphocytic, Chronic, B-Cell	9
